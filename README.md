@@ -1,4 +1,7 @@
 ## POS-Tagger-using-HMM-and-bi-LSTM
+# Prposed Models
+* Viterbi Model
+* bi-LSTM Model
 
 # Results:
 ![image](https://user-images.githubusercontent.com/82271508/138356559-f7f67ac3-0dd4-4a49-aeaa-d430021623d4.png)
